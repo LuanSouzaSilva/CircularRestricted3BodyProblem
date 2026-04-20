@@ -5,9 +5,9 @@ Neste repositório estão os códigos usados para o trabalho da disciplina de p�
 Os códigos e documentos estão organizados da seguinte forma:
 1. Em $\verb|Funcs.py|$ estão todas as funções principais usadas para cálculos numéricos (Runge-Kutta, matriz jacobiana, derivadas do potencial efetivo, etc).
 
-2. Em Fixed_point_analysis.ipynb estão os plots do espectro de autovalores da jacobiana e a análise de estabilidade dos pontos fixos
+2. Em $\verb|Fixed_point_analysis.ipynb|$ estão os plots do espectro de autovalores da jacobiana e a análise de estabilidade dos pontos fixos
 
-3. Em Lyapunov.ipynb estão os cálculos dos expoentes de Lyapunov do problema
+3. Em $\verb|Lyapunov.ipynb|$ estão os cálculos dos expoentes de Lyapunov do problema
 
 4. Na pasta figuras estão as figuras salvas
 
