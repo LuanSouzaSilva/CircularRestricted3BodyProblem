@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Se você utilizar este software em seu trabalho, por favor, cite-o como abaixo."
+authors:
+  - family-names: "S. Silva"
+    given-names: "Luan"
+    orcid: "https://orcid.org/0000-0001-5237-9946" # Opcional, remova a linha se não tiver
+title: "Simulação Numérica do Problema de Três Corpos e Expoentes de Lyapunov"
+version: 1.0.0
+doi: 10.5281/zenodo.19664188 # Coloque o DOI que o Zenodo gerar para você
+date-released: 2024-04-19
+url: "https://github.com/LuanSouzaSilva/CircularRestricted3BodyProblem"
+repository-code: "https://github.com/LuanSouzaSilva/CircularRestricted3BodyProblem"
+license: MIT # Ou a licença que você escolher (GPL, Apache, etc)
+keywords:
+  - "celestial mechanics"
+  - "three-body problem"
+  - "lyapunov exponents"
+  - "chaos theory"
+  - "python"
